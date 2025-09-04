@@ -59,6 +59,8 @@ I take pride in details, and I aim to deliver work that balances function, form,
 
 <details>
  <summary><h3>👨‍💻 BlueFlaw's Coding Journey</h3></summary>
-   As a computer science student with a keen interest in programming, I embarked on a coding journey eager to learn all there was to know about the field, including code, unix, linux, and theory. At the same time, I pursued my passion for digital painting and taught myself the craft, fueled by a dream of creating my very own artist website. After a year of working as a website developer, I finally put my skills to the test and crafted my own website from scratch. From the front end to the back end, I built everything myself, including the art content, animations, UI, and UX. Every aspect of the website was thoughtfully designed and executed with precision, showcasing my passion for both coding and digital art. It was a proud moment for me, having brought my dream to life through hard work and dedication.
+   I’m a computer science student with a strong interest in programming, Unix/Linux, and software theory. Alongside my studies, I taught myself digital painting and set out to build my own artist website from the ground up. After a year of working as a web developer, I created it entirely myself — from front end to back end, including the art, animations, UI, and UX.
+
+That project combined both sides of my passion: coding and creativity. It was a milestone for me, proving I could turn an idea into a fully realized product through persistence and attention to detail.
 
 [website]: https://lavaritte.com
