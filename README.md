@@ -1,12 +1,12 @@
 # BlueFlaw
 
-**`Pixel Pusher (Developer/Filmmaker/Creator)`**
+**`Pixel Pusher (Developer/Artist/Creator)`**
 
-As a Digital Craftsman, I specialize in full-stack development and illustration. All of my coding projects are created from the ground up, starting with planning and designing all the way to solving real-life problems with code. When it comes to video content, I approach it in the same way, from ideation and planning, all the way to finalizing the content with my artistic touch.
+I’m a full-stack developer and illustrator with a strong focus on building projects from the ground up — from planning and design to fully functional solutions. My work combines technical problem-solving with a creative eye, ensuring that what I build is both reliable and visually clear.
 
-I am passionate about problem-solving, and I work hard to create solutions that are not only functional but also visually appealing. Every detail matters to me, and I take great care in ensuring that my work is of the highest quality. Whether it's designing, planning, or coding, I am dedicated to bringing my projects to life from start to finish.
+Beyond code, I also create video content with the same structured approach: careful planning, precise execution, and a final product that feels intentional and engaging.
 
-When it comes to video content, I apply the same meticulous approach, carefully planning and executing each aspect of the process with care. My artistic touch shines through in the final product, which I strive to make both engaging and visually stunning. Overall, I am a skilled and creative professional who takes pride in producing high-quality work.
+I take pride in details, and I aim to deliver work that balances function, form, and craft.
 
    <!-- <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
