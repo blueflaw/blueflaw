@@ -1,7 +1,6 @@
-````markdown
 # Hi, I'm Allard (BlueFlaw) 👋
 
-### Level 31 Developer
+## 🎮 Level 31 Developer
 
 ```text
 Class
@@ -20,9 +19,10 @@ Current Quest
 ▶ Build a productivity RPG inspired by Taskbar Hero
 
 Side Quests
-☑ Build AI-ready websites
+☑ Build AI ready websites
 ☑ Publish educational content
 ☑ Improve SEO & Marketing Automation
+☑ Learn game development
 ☐ Release TaskQuest MVP
 ☐ Launch on Steam
 
@@ -45,7 +45,7 @@ Companion
 
 I'm a Marketing Operations Specialist, full stack developer, digital artist, and indie game developer from the Philippines.
 
-I enjoy building complete products from the ground up, from planning and UI/UX to development, deployment, SEO, and automation. My background combines software engineering, digital illustration, marketing technology, and creative problem solving.
+I enjoy building complete products from planning and UI/UX to development, deployment, SEO, and automation. My background combines software engineering, digital illustration, marketing technology, and creative problem solving.
 
 I'm currently building a productivity RPG inspired by Taskbar Hero while creating educational content and tools for developers, artists, and creators.
 
@@ -55,13 +55,12 @@ I'm currently building a productivity RPG inspired by Taskbar Hero while creatin
 
 - 🎮 Indie Game Development
 - ⚛️ React & Next.js
-- 🐘 Laravel & PHP
+- 🐘 Laravel
 - 🤖 AI Automation
 - 📈 Technical SEO
 - ✉️ Marketing Operations
 - 🎨 Digital Illustration
 - 🧩 Pixel Art
-- 📚 Continuous Learning
 
 ---
 
@@ -77,20 +76,12 @@ I'm currently building a productivity RPG inspired by Taskbar Hero while creatin
 - HTML
 - CSS
 
-### Frontend
+### Frameworks
 
 - React
 - Next.js
-- Tailwind CSS
-- HTML5
-- CSS3
-
-### Backend
-
 - Laravel
 - Node.js
-- REST APIs
-- MySQL
 
 ### Marketing & SEO
 
@@ -99,9 +90,8 @@ I'm currently building a productivity RPG inspired by Taskbar Hero while creatin
 - Strapi CMS
 - Google Search Console
 - Google Analytics 4
-- Technical SEO
 
-### Creative Tools
+### Creative
 
 - Photoshop
 - Illustrator
@@ -118,23 +108,25 @@ I'm currently building a productivity RPG inspired by Taskbar Hero while creatin
 
 A desktop productivity RPG where real life tasks become quests.
 
-Complete tasks.
-
-Earn XP.
-
-Level up your character.
-
-Unlock equipment.
-
-Build better habits.
+- ✅ Complete real tasks
+- ⭐ Earn XP
+- 🏆 Level up
+- 🎒 Unlock equipment
+- 📈 Build habits
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueflaw&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blueflaw&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=blueflaw&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+</p>
+<p align="center">
+   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=blueflaw&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=blueflaw&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
@@ -146,13 +138,12 @@ https://lavaritte.com
 💼 LinkedIn  
 https://www.linkedin.com/in/allard-lavaritte/
 
-🎨 Art Portfolio  
-https://lavaritte.com
-
 🐙 GitHub  
 https://github.com/blueflaw
+
+🎨 Portfolio  
+https://lavaritte.com
 
 ---
 
 > "Constantly Learning. Constantly Evolving."
-````
