@@ -1,53 +1,89 @@
+````markdown
 # Hi, I'm Allard (BlueFlaw) 👋
 
-### Building products that combine code, design, and creativity.
+### Level 31 Developer
 
-I'm a Marketing Operations Specialist, full stack developer, digital artist, and indie game developer from the Philippines.
+```text
+Class
+⚔️ Full Stack Builder
 
-I enjoy building complete products from scratch, whether that's a web application, automation tool, game, or creative project. My background in software engineering, SEO, UI/UX, and digital illustration helps me create experiences that are both functional and enjoyable to use.
+Skills
+██████████ JavaScript
+█████████░ React
+████████░░ Laravel
+████████░░ SEO
+███████░░░ AI Automation
+███████░░░ Pixel Art
+██████░░░░ Game Development
 
-Currently I'm building:
+Current Quest
+▶ Build a productivity RPG inspired by Taskbar Hero
 
-🎮 A productivity RPG inspired by Taskbar Hero
+Side Quests
+☑ Build AI-ready websites
+☑ Publish educational content
+☑ Improve SEO & Marketing Automation
+☐ Release TaskQuest MVP
+☐ Launch on Steam
 
-🌐 Tools and content for developers and digital artists
+HP
+██████████ 100%
 
-🤖 AI powered workflows and marketing automation
+Mana
+██████████ 100%
 
-✍️ SEO focused educational content at lavaritte.com
+Gold
+☕ Coffee
 
-## Current Focus
-
-- Game Development
-- React & Next.js
-- TypeScript
-- Laravel
-- AI Automation
-- Marketing Technology
-- Digital Illustration
-- Pixel Art
+Companion
+🤖 AI
+```
 
 ---
 
-## Tech Stack
+## 👨‍💻 About Me
+
+I'm a Marketing Operations Specialist, full stack developer, digital artist, and indie game developer from the Philippines.
+
+I enjoy building complete products from the ground up, from planning and UI/UX to development, deployment, SEO, and automation. My background combines software engineering, digital illustration, marketing technology, and creative problem solving.
+
+I'm currently building a productivity RPG inspired by Taskbar Hero while creating educational content and tools for developers, artists, and creators.
+
+---
+
+## 🚀 Current Focus
+
+- 🎮 Indie Game Development
+- ⚛️ React & Next.js
+- 🐘 Laravel & PHP
+- 🤖 AI Automation
+- 📈 Technical SEO
+- ✉️ Marketing Operations
+- 🎨 Digital Illustration
+- 🧩 Pixel Art
+- 📚 Continuous Learning
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+- JavaScript
+- TypeScript
+- PHP
+- Python
+- Java
+- HTML
+- CSS
 
 ### Frontend
 
 - React
 - Next.js
-- HTML
-- CSS
 - Tailwind CSS
-- JavaScript
-- TypeScript
+- HTML5
+- CSS3
 
 ### Backend
 
@@ -62,11 +98,10 @@ Currently I'm building:
 - Movable Ink
 - Strapi CMS
 - Google Search Console
-- GA4
-- SEO
+- Google Analytics 4
 - Technical SEO
 
-### Creative
+### Creative Tools
 
 - Photoshop
 - Illustrator
@@ -77,15 +112,25 @@ Currently I'm building:
 
 ---
 
-## Current Project
+## 🎯 Current Project
 
-🎮 TaskQuest (working title)
+### TaskQuest (Working Title)
 
-A desktop productivity RPG where real life tasks become quests. Complete work, earn XP, level up your character, unlock equipment, and build better habits.
+A desktop productivity RPG where real life tasks become quests.
+
+Complete tasks.
+
+Earn XP.
+
+Level up your character.
+
+Unlock equipment.
+
+Build better habits.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueflaw&show_icons=true&theme=tokyonight)
 
@@ -93,13 +138,21 @@ A desktop productivity RPG where real life tasks become quests. Complete work, e
 
 ---
 
-## Connect
+## 🌐 Connect With Me
 
-🌐 Website
+🌍 Website  
 https://lavaritte.com
 
-💼 LinkedIn
-(Add your LinkedIn)
+💼 LinkedIn  
+https://www.linkedin.com/in/allard-lavaritte/
 
-🎨 Art Portfolio
+🎨 Art Portfolio  
 https://lavaritte.com
+
+🐙 GitHub  
+https://github.com/blueflaw
+
+---
+
+> "Constantly Learning. Constantly Evolving."
+````
