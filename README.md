@@ -1,66 +1,105 @@
-# BlueFlaw
+# Hi, I'm Allard (BlueFlaw) 👋
 
-**`Pixel Pusher (Developer/Artist/Creator)`**
+### Building products that combine code, design, and creativity.
 
-I’m a full-stack developer and illustrator with a strong focus on building projects from the ground up — from planning and design to fully functional solutions. My work combines technical problem-solving with a creative eye, ensuring that what I build is both reliable and visually clear.
+I'm a Marketing Operations Specialist, full stack developer, digital artist, and indie game developer from the Philippines.
 
-Beyond code, I also create video content with the same structured approach: careful planning, precise execution, and a final product that feels intentional and engaging.
+I enjoy building complete products from scratch, whether that's a web application, automation tool, game, or creative project. My background in software engineering, SEO, UI/UX, and digital illustration helps me create experiences that are both functional and enjoyable to use.
 
-I take pride in details, and I aim to deliver work that balances function, form, and craft.
+Currently I'm building:
 
-   <!-- <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/ForrestKnight?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-   </p> -->
+🎮 A productivity RPG inspired by Taskbar Hero
+
+🌐 Tools and content for developers and digital artists
+
+🤖 AI powered workflows and marketing automation
+
+✍️ SEO focused educational content at lavaritte.com
+
+## Current Focus
+
+- Game Development
+- React & Next.js
+- TypeScript
+- Laravel
+- AI Automation
+- Marketing Technology
+- Digital Illustration
+- Pixel Art
 
 ---
 
-### 🧰 Languages and Tools
+## Tech Stack
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-<img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Illustrator" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img align="left" alt="Premierepro" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" />
-<img align="left" alt="Aftereffects" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" />
+### Languages
 
-<br />
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#
-          
-          
-          
-          
+### Frontend
 
-### 📊 Stats
+- React
+- Next.js
+- HTML
+- CSS
+- Tailwind CSS
+- JavaScript
+- TypeScript
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=blueflaw&show_icons=true&theme=gruvbox)
+### Backend
 
-#
+- Laravel
+- Node.js
+- REST APIs
+- MySQL
 
-<details>
- <summary><h3>👨‍💻 BlueFlaw's Coding Journey</h3></summary>
-   I’m a computer science student with a strong interest in programming, Unix/Linux, and software theory. Alongside my studies, I taught myself digital painting and set out to build my own artist website from the ground up. After a year of working as a web developer, I created it entirely myself — from front end to back end, including the art, animations, UI, and UX.
+### Marketing & SEO
 
-That project combined both sides of my passion: coding and creativity. It was a milestone for me, proving I could turn an idea into a fully realized product through persistence and attention to detail.
+- Iterable
+- Movable Ink
+- Strapi CMS
+- Google Search Console
+- GA4
+- SEO
+- Technical SEO
 
-[website]: https://lavaritte.com
+### Creative
+
+- Photoshop
+- Illustrator
+- Blender
+- Figma
+- Premiere Pro
+- After Effects
+
+---
+
+## Current Project
+
+🎮 TaskQuest (working title)
+
+A desktop productivity RPG where real life tasks become quests. Complete work, earn XP, level up your character, unlock equipment, and build better habits.
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueflaw&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blueflaw&layout=compact&theme=tokyonight)
+
+---
+
+## Connect
+
+🌐 Website
+https://lavaritte.com
+
+💼 LinkedIn
+(Add your LinkedIn)
+
+🎨 Art Portfolio
+https://lavaritte.com
